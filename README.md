@@ -2,7 +2,7 @@
 
 Simple todolist write in django for general use and pipeline automation..
 
-  - Be kind with my babyyyy
+  - Be kind with my babyyy
 
 ### Quick and free tip:
 
