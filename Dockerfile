@@ -1,5 +1,5 @@
 FROM python:3.6
-#Copiando os arquivos do projeto para o diretorio usr/src/app 
+#Copiando os arquivos do projeto para o diretorio usr/src/app pr
 COPY . /usr/src/app
 #Definindo o diretorio onde o CMD será executado e copiando o arquivo de requerimentos
 WORKDIR /usr/src/app
